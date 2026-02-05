@@ -92,6 +92,3 @@ L'enjeu est de construire un outil de suivi de données (**Tracking**) complet :
 ---
 
 > 💡 **Conseil de départ :** Concentrez-vous d'abord sur la **requête SQL** qui vérifie si une entrée existe déjà pour la date du jour. C'est le cœur de votre logique métier.
-
----
-*Projet créé dans le cadre de l'atelier FeelGood - Mood Tracker.*
