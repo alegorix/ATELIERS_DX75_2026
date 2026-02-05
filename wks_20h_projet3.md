@@ -11,7 +11,7 @@ Bienvenue dans le projet **Help Wanted**. Cette plateforme est un mur d'annonces
 
 ---
 
-## Objectifs de l'atelier
+## Objectifs du workshop
 L'enjeu est de construire une plateforme de mise en relation fonctionnelle :
 1.  **Concevoir** une base de données gérant plusieurs catégories et types d'annonces.
 2.  **Développer** un système de filtrage dynamique (catégories, type d'aide).
