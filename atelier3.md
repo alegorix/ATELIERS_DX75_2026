@@ -1,6 +1,6 @@
 # Projet : Help Wanted - Entraide Communautaire
 
-Bienvenue dans le projet **Help Wanted**. Cette plateforme est un mur d'annonces numérique conçu pour transformer le voisinage en réseau de solidarité. Les habitants peuvent y poster des demandes d'aide ou proposer leurs services.
+Bienvenue dans le projet **Help Wanted**. Cette plateforme est un mur d'annonces numériques conçu pour transformer le voisinage en réseau de solidarité. Les habitants peuvent y poster des demandes d'aide ou proposer leurs services.
 
 ---
 
