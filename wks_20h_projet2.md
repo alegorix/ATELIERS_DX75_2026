@@ -11,7 +11,7 @@ Bienvenue dans le projet **FeelGood**. L'objectif est de concevoir une applicati
 
 ---
 
-## Objectifs de l'atelier
+## Objectifs du workshop
 L'enjeu est de construire un outil de suivi de données (**Tracking**) complet :
 1.  **Concevoir** une base de données gérant l'historique temporel.
 2.  **Développer** une logique métier (limite d'une seule saisie par jour).
