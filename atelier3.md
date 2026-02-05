@@ -52,7 +52,7 @@ L'enjeu est de construire une plateforme de mise en relation fonctionnelle :
 * **Design :** Intégration mobile-first avec Bootstrap 5.
 
 ### Séance 5 : Livraison & Démo
-* Parcours utilisateur complet : Inscription ➡️ Publication ➡️ Filtrage.
+* Parcours utilisateur complet : Inscription > Publication > Filtrage.
 * Explication de la gestion de l'affichage conditionnel (annonces terminées).
 
 ---
