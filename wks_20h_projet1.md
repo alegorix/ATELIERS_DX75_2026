@@ -11,7 +11,7 @@ Bienvenue dans le projet **MyLink-In-Bio**. L'objectif est de développer une pl
 
 ---
 
-## Objectifs de l'atelier
+## Objectifs du workshop
 L'enjeu est de construire un produit complet et fonctionnel :
 1.  **Concevoir** la structure de données (Base de données).
 2.  **Développer** un espace membre sécurisé.
