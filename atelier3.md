@@ -25,7 +25,7 @@ L'enjeu est de construire une plateforme de mise en relation fonctionnelle :
 ### 1. Administration (Privé)
 * **Inscription & Connexion :** Identification des membres du quartier.
 * **Mes Annonces :** Espace personnel pour créer, modifier ou supprimer ses publications.
-* **Gestion du Statut :** Marquer une annonce comme "Pourvue" ou "Aide trouvée" pour la retirer des recherches actives.
+* **Gestion du Statut :** Marquer une annonce comme "Aide trouvée" pour la retirer des recherches actives.
 
 ### 2. Mur d'Entraide (Public)
 * **Recherche & Filtres :** Filtrage par catégorie (Bricolage, Jardinage, Cours, etc.) ou par type (Demande / Offre).
